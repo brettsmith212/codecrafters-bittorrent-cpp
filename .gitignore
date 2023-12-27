@@ -46,3 +46,8 @@ CTestTestfile.cmake
 _deps
 .DS_Store
 build/
+
+# Replit
+.ccls-cache
+.replit
+replit.nix
